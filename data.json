@@ -1,12 +1,11 @@
 [
   {
-    "id": "1773214525759",
-    "name": "Asop ",
-    "description": "Asop",
-    "type": "Application",
-    "iconUrl": "https://raw.githubusercontent.com/freefireyaya06-ux/apk-database/main/icons/1773214466160_image%7E2.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/freefireyaya06-ux/apk-database/main/uploads/1773214473018_vscodeasop.apk",
-    "iconPath": "icons/1773214466160_image~2.jpg",
-    "apkPath": "uploads/vscodeasop.apk"
+    "id": "1773215464596",
+    "name": "Somethingio",
+    "description": "Keke",
+    "type": "Game",
+    "iconUrl": "https://raw.githubusercontent.com/freefireyaya06-ux/apk-database/main/icons/1773215459990_file_000000002d1c7208a65b09e1cb2df55d-removebg-preview%20(1).png",
+    "downloadUrl": "https://github.com/freefireyaya06-ux/apk-database/releases/download/v1.0/app-release.apk",
+    "iconPath": "icons/1773215459990_file_000000002d1c7208a65b09e1cb2df55d-removebg-preview (1).png"
   }
 ]
