@@ -16,5 +16,14 @@
     "iconUrl": "https://raw.githubusercontent.com/freefireyaya06-ux/apk-database/main/icons/1773223584795_image%7E2.jpg",
     "downloadUrl": "https://github.com/freefireyaya06-ux/apk-database/releases/download/v1.1/vscodeasop.apk",
     "iconPath": "icons/1773223584795_image~2.jpg"
+  },
+  {
+    "id": "1773223591504",
+    "name": "Asop ",
+    "description": "Asop",
+    "type": "Game",
+    "iconUrl": "https://raw.githubusercontent.com/freefireyaya06-ux/apk-database/main/icons/1773223589141_image%7E2.jpg",
+    "downloadUrl": "https://github.com/freefireyaya06-ux/apk-database/releases/download/v1.1/vscodeasop.apk",
+    "iconPath": "icons/1773223589141_image~2.jpg"
   }
 ]
